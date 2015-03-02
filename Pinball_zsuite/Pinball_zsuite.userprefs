@@ -1,0 +1,28 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/AddValues.cs">
+    <Files>
+      <File FileName="Assets/ScaleDown.cs" Line="15" Column="64" />
+      <File FileName="../../../MultiplayerLevel/Assets/AutoRotate.cs" Line="1" Column="1" />
+      <File FileName="Assets/Standard Assets/Image Effects (Pro Only)/VortexEffect.cs" Line="1" Column="1" />
+      <File FileName="Assets/Standard Assets/Toon Shading/Sources/Shaders/Toony-LightedOutline.shader" Line="1" Column="1" />
+      <File FileName="Assets/Standard Assets/Toon Shading/Sources/Shaders/Toony-BasicOutline.shader" Line="1" Column="1" />
+      <File FileName="Assets/SCRIPTS/StateManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/SCRIPTS/Bumper.cs" Line="1" Column="1" />
+      <File FileName="Assets/AddValues.cs" Line="43" Column="32" />
+      <File FileName="Assets/SCRIPTS/RewindManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/SCRIPTS/ChangeTextToVariable.cs" Line="1" Column="1" />
+      <File FileName="Assets/SCRIPTS/Rotate.cs" Line="1" Column="1" />
+      <File FileName="Assets/SCRIPTS/KickerSpring.cs" Line="1" Column="1" />
+      <File FileName="Assets/DeathTrigger.cs" Line="1" Column="1" />
+      <File FileName="Assets/DeleteAfter.cs" Line="1" Column="1" />
+      <File FileName="Assets/SCRIPTS/Blink.cs" Line="1" Column="1" />
+      <File FileName="Assets/Standard Assets/CopyToScreenRT.cs" Line="1" Column="1" />
+      <File FileName="Assets/PressSpace.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
